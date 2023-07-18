@@ -1,4 +1,4 @@
-# repo-with-a-typo
+# Yazım hataları barındıran bir repo
 Bu repo yazım hataları barındırıyor, bunları düzeltip PR atabilir misin?
 
 1. Türkiyede turisim başlıca geçim kaynağıdr.
